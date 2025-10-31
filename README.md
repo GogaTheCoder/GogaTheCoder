@@ -14,4 +14,6 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?GogaTheCoder=your-github-username&style=flat-square&color=blue" alt=""/>
+<div id="counter">
+  <img src="https://komarev.com/ghpvc/?GogaTheCoder=your-github-username&style=flat-square&color=blue" alt=""/>
+</div>
