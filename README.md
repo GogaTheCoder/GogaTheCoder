@@ -21,3 +21,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHR3eTc4bnM3bnRiaDBraWQ3bmh2c21xNnZtaG5zYTUwZnR6ZnduYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="100"/>
+</div>
