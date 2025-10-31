@@ -3,7 +3,13 @@
 </div>
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/Threads-black?style=for-the-badge&logo=threads&logoColor=white" alt="Threads Badge"/>
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  <a href="https://www.linkedin.com/in/гоар-пирумян-8254b3325/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.threads.com/@lilas_malefiqu?igshid=NTc4MTIwNjQ2YQ==">
+    <img src="https://img.shields.io/badge/Threads-black?style=for-the-badge&logo=threads&logoColor=white" alt="Threads Badge"/>
+  </a>
+  <a href="https://t.me/lilassauvage">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
 </div>
