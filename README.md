@@ -37,9 +37,6 @@ I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   
 - ✨ Love clean architecture, UI/UX design, and meaningful products.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](t.me/lilassauvage)
-
-
-
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@lilassauvage-blue?style=flat&logo=Telegram&logoColor=white)](t.me/lilassauvage)
 
 
