@@ -36,7 +36,3 @@ I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - 🚀 Currently developing an app for **emotional state management** using **sensor data and AI**.
   
 - ✨ Love clean architecture, UI/UX design, and meaningful products.
-
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@lilassauvage-blue?style=flat&logo=Telegram&logoColor=white)](t.me/lilassauvage)
-
-
